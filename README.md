@@ -4,10 +4,10 @@ A content-based movie recommendation engine that suggests films based on similar
 
 ## Features
 
-- Content-Based Filtering**: Recommends movies based on genres, plot summaries, keywords, main cast, and directors
-- Interactive Interface**: Demo mode with examples and interactive input for any movie title
-- Smart Matching**: Handles partial titles and suggests alternatives when exact matches aren't found
-- Machine Learning**: Uses TF-IDF vectorization and cosine similarity for accurate recommendations
+- Content-Based Filtering: Recommends movies based on genres, plot summaries, keywords, main cast, and directors
+- Interactive Interface: Demo mode with examples and interactive input for any movie title
+- Smart Matching: Handles partial titles and suggests alternatives when exact matches aren't found
+- Machine Learning: Uses TF-IDF vectorization and cosine similarity for accurate recommendations
 
 ##  Quick Start
 
