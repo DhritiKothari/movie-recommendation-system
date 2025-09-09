@@ -17,22 +17,22 @@ A content-based movie recommendation engine that suggests films based on similar
 
 ### Installation
 
-1. Clone the repository**
+1. Clone the repository
    bash
    git clone <repository-url>
    cd movie-recommendation-system
    
 
-2. Install dependencies**
+2. Install dependencies
    bash
    pip install -r requirements.txt
    
 
-3. Download dataset**
+3. Download dataset
    - Get the [TMDB 5000 Movie Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata) from Kaggle
    - Place both files (`tmdb_5000_movies.csv` and `tmdb_5000_credits.csv`) in the `data/` folder
 
-4. Run the system**
+4. Run the system
    bash
    python movie_recommender.py
   
